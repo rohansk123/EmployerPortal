@@ -118,7 +118,7 @@ public partial class _Default : System.Web.UI.Page
         }
         catch (Exception error)
         {
-            //throw new Exception(error.ToString());
+           
             Response.Write(error.ToString());
 
             // *** IF SESSION VARIABLE 'name' IS 'Default', REDIRECT TO GROUPS PAGE *** 
