@@ -1,0 +1,3 @@
+lname,fname,address,city,state,zip,ssn,dob,doh,gender,salary,occupation,loc_name,jobclass,ext_EmpID
+Suresh,Rohan,123 ABC,CS,TX,788586,444155658,1252000,1282015,M,0,Student,,,123
+Depp,Jhonny,222 CCC,HW,CA,432654,534444545,12/5/1955,12/9/1988,M,543535435,Actor,ABC,,

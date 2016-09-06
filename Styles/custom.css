@@ -1,0 +1,49 @@
+﻿ a.yes { font: bold 11px Arial, Helvetica, sans-serif; color:#673955; padding:5px 20px; margin:0; background:url(../Images/icons/check-green.gif) left no-repeat;}
+ a.drop { font: bold 11px Arial, Helvetica, sans-serif; color:#000000; padding:5px 20px; margin:0; background:url(../Images/icons/down-red.gif) left no-repeat;}
+ a.edit { font: bold 10px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/edit-page-grey.gif) left no-repeat;}
+ a.add { font: bold 10px Arial, Helvetica, sans-serif; color:#000000; padding:5px 20px; margin:0; background:url(../Images/icons/add-user-blue.gif) left no-repeat;}
+ a.delete { font: bold 10px Arial, Helvetica, sans-serif; color:#000000; padding:5px 20px; margin:0; background:url(../Images/icons/delete-page-blue.gif) left no-repeat;}
+ a.edit_user { font: bold 10px Arial, Helvetica, sans-serif; color:#000000; padding:5px 20px; margin:0; background:url(../Images/icons/edit-page-blue.gif) left no-repeat;}
+a.PDFlink{font-family:Helvetica,Arial,sans-serif; font-size: 14px; font-weight: normal;padding:15px 20px; margin:0; background:url(../Images/icons/pdf.gif) left no-repeat;}
+a.zipLink{font-family:Helvetica,Arial,sans-serif; font-size: 14px; font-weight: normal;padding:15px 20px; margin:0; background:url(../Images/icons/zip-file.gif) left no-repeat;}
+ a.app { font: 10px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/pdf.gif) left no-repeat;}
+ a.no { font: bold 11px Arial, Helvetica, sans-serif; color:#000000; padding:5px 20px; margin:0; background:url(../Images/icons/delete-page-red.gif) left no-repeat;}
+ a.yes { font: bold 11px Arial, Helvetica, sans-serif; color:#000000; padding:5px 20px; margin:0; background:url(../Images/icons/check-green.gif) left no-repeat;}
+ a.no_nospouse { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/delete-page-grey.gif) left no-repeat;}
+ a.yes_old { font: bold 11px Arial, Helvetica, sans-serif; color:#673955; padding:5px 20px; margin:0; background:url(../Images/icons/check-grey.gif) left no-repeat;}
+ .logo {width:270px; height:100px; background:#ffffff; float: left; margin-top:5px; margin-left:20px; margin-right:20px; margin-top:20px; margin-bottom:20px; border-left:1px solid #696969; border-right:1px solid #696969; border-top:1px solid #696969; border-bottom:1px solid #696969; }
+ a.view_app { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/pdf.gif) left no-repeat;}
+ a.add_employee { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/add-user-blue.gif) left no-repeat;}
+ a.add_location { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/add-comment-green.gif) left no-repeat;}
+ a.log_out { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/user-login-red.gif) left no-repeat;}
+ a.census { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/vote-user-red.gif) left no-repeat;}
+ a.elec_app { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/down-green.gif) left no-repeat;}
+ a.add_terminate { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/sitemap-red.gif) left no-repeat;}
+ a.list_employees { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/user-group2.gif) left no-repeat;}
+ a.edit_emp_table { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/remove-user-blue.gif) left no-repeat;}
+ a.upload_employees { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/up-green.gif) left no-repeat;}
+ a.products { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/checkout3-blue.gif) left no-repeat;}
+ a.add_product { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/add-item-green.gif) left no-repeat;}
+ a.edit_report { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/edit-page-yellow.gif) left no-repeat;}
+ a.edit_riders { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/edit-comment-orange.gif) left no-repeat;}
+ a.trans_log { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/edit-page-yellow.gif) left no-repeat;}
+ a.summary { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/stats2.gif) left no-repeat;}
+ a.home { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/home-icon4.gif) left no-repeat;}
+ a.rollover { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/left-green.gif) left no-repeat;}
+ a.confirmation { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/printer-yellow.gif) left no-repeat;}
+ a.dependents { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/user-group.gif) left no-repeat;}
+ a.beneficiaries { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/user-group2.gif) left no-repeat;} 
+ a.custom { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/checkout2-green.gif) left no-repeat;}
+ a.changes { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/omit-page-green.gif) left no-repeat;}
+ a.email { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/email-regular.gif) left no-repeat;}
+ a.excel { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:15px 20px; margin:0; background:url(../Images/icons/excel-file.gif) left no-repeat;}
+ a.no { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/delete-page-red.gif) left no-repeat;}
+ a.sales { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/stats4.gif) left no-repeat;}
+ a.archive { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/remove-user-red.gif) left no-repeat;}
+ a.download { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/download-page-blue.gif) left no-repeat;}
+ a.archive_access { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/folder-yellow.gif) left no-repeat;}
+ a.email { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/email-contact-green.gif) left no-repeat;}
+ a.viewCS { font: bold 11px Arial, Helvetica, sans-serif; color:#696969; padding:5px 20px; margin:0; background:url(../Images/icons/down-green.gif) left no-repeat;}
+h2.title{margin-left:10px; color:#ccc; display:inline; font-size: 20px; font-weight:normal; font-family: Trebuchet MS, Arial, Helvetica, sans-serif; }
+ table.tableSide {padding:2px; margin-left:10px}
+ table.tableSide tr td {border-top:0px}

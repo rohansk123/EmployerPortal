@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Master.master.cs" Inherits="Test_Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+   	<link rel="stylesheet" href="<%=Page.ResolveUrl("~")%>Styles/bootstrap.min.css" />
+		<link rel="stylesheet" href="<%=Page.ResolveUrl("~")%>Styles/bootstrap-responsive.min.css" />
+        <link rel="stylesheet" href="<%=Page.ResolveUrl("~")%>Styles/font-awesome.min.css" />
+		<link rel="stylesheet" href="<%=Page.ResolveUrl("~")%>Styles/fullcalendar.css" />
+		<link rel="stylesheet" href="<%=Page.ResolveUrl("~")%>Styles/jquery.jscrollpane.css" />
+		<link rel="stylesheet" href="<%=Page.ResolveUrl("~")%>Styles/unicorn.css" />
+		<link rel="stylesheet" href="<%=Page.ResolveUrl("~")%>Styles/custom.css" />
+		<link rel="stylesheet" href="<%=Page.ResolveUrl("~")%>Styles/unicorn.grey.css" class="skin-color" />
+
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/excanvas.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/jquery.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/jquery-ui.custom.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/bootstrap.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/bootstrap-datepicker.js" type="text/javascript" > </script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/jquery.flot.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/jquery.flot.resize.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/jquery.sparkline.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/jquery.peity.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/fullcalendar.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/jquery.nicescroll.min.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/unicorn.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/jquery.validate.js" type="text/javascript"></script>
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/unicorn.dashboard.js" type="text/javascript"></script>
+        
+        <script src="<%=Page.ResolveUrl("~")%>Scripts/Site.js" type="text/javascript"></script>
+    <title></title>
+   <asp:Literal ID="javascript" runat="server" />
+        
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   <div id="wrapper">
+    <form class="form-horizontal" id="SitusForm" runat="server">
+    <div>
+        <div id="content-header">
+	            <h1><asp:Label id="groupName" Text="" runat="server" /> </h1>
+            </div>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+    </div>
+    </form>
+    </div>
+</body>
+</html>
